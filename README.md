@@ -5,6 +5,7 @@
 ## 关于文件的用法
 ### test.py
 test.py主要用于在hsv上筛选已经领取的红包和未经领取的红包，如
+
 ![](/images/未领取的红包.png) ![](/images/已领取的红包.png)
 ### TEST2.py
 TEST2.py主要用于检查筛选效果的查看，如
