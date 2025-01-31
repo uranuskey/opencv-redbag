@@ -135,5 +135,6 @@ while True:
             sign = 0
             #print("不是红包")
     #counter += 1
-
-
+    # 按下q键退出循环
+    if cv2.waitKey(1) & 0xFF == ord('q'):
+        break
