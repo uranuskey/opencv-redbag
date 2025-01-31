@@ -5,16 +5,16 @@
 ## 关于文件的用法
 ### test.py
 test.py主要用于在hsv上筛选已经领取的红包和未经领取的红包，如
-![](D:\pypro\视觉红包\未领取的红包.png) ![](D:\pypro\视觉红包\已领取的红包.png)
+![](/images/未领取的红包.png) ![](/images/已领取的红包.png)
 ### TEST2.py
 TEST2.py主要用于检查筛选效果的查看，如
 
-![](D:\pypro\视觉红包\Result.png)
+![](/images/Result.png)
 
 ### dan.py
 dan.py主要用于在当前屏幕下对于红包页面的周长面积的计算以用于筛选，不是1080p的屏幕要修改参数，如
 
-![](D:\pypro\视觉红包\QQ!.png)
+![](/images/QQ!.png)
 
 和Result.png等二次点击的图也要计算以防阻塞
 ### final manba.py
